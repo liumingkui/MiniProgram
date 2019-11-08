@@ -1,0 +1,7 @@
+<scroll-view class="box" scroll-x="{{true}}">
+  <button wx:for="{{10}}" class="btn">按钮{{item}}</button>
+</scroll-view>
+
+<scroll-view class="box2" scroll-y="{{true}}">
+  <button wx:for="{{10}}" class="btn">按钮{{item}}</button>
+</scroll-view>

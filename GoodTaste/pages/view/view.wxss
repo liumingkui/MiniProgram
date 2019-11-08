@@ -1,0 +1,21 @@
+/* pages/view/view.wxss */
+.parentview{
+  background: green;
+  height: 100px;
+}
+
+.parentview_hover{
+  background: orange;
+  height: 100px;
+}
+
+.myview{
+  background: red;
+  border: 1px solid;
+  height: 50px;
+  width: 50px;
+}
+
+.myview_hover{
+  background: blue;
+}

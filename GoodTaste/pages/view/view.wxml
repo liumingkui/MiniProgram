@@ -1,0 +1,5 @@
+<!-- 基本 -->
+<view>hello</view>
+<view class="parentview" hover-class="parentview_hover">
+  <view class="myview" hover-class="myview_hover" hover-stop-propagation>hello</view>
+</view>

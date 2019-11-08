@@ -1,0 +1,19 @@
+.box {
+  border: 2rpx solid black;
+  height: 400rpx;
+  width: 500rpx;
+  white-space: nowrap;
+}
+
+.box2 {
+  border: 2rpx solid black;
+  height: 400rpx;
+  width: 500rpx;
+  /* white-space: nowrap; */
+}
+
+.btn {
+  display: inline-block;
+  color: orange;
+  background: green;
+}

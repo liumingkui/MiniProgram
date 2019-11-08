@@ -1,0 +1,11 @@
+<!-- 基本 -->
+<button>确定</button>
+<!-- 尺寸 -->
+<button size="mini">确定</button>
+<!-- 样式类型 -->
+<button type="primary" size="mini">确定</button>
+<button type="warn" size="mini" disabled>确定</button>
+<!-- 镂空 -->
+<button type="primary" size="mini" plain>确定</button>
+
+<button hover-class="tapHover">提交</button>

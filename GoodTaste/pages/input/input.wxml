@@ -1,0 +1,7 @@
+<!--pages/input/input.wxml-->
+<input class="box" type="number" />
+<input class="box" type="text" confirm-type="send"/>
+<input class="box" password />
+<input class="box" placeholder="nihao" placeholder-style="color:blue"/>
+<input class="box" placeholder="nihao" placeholder-class="placeholderCls" />
+<input class="box" disabled/>
